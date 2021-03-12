@@ -1,0 +1,21 @@
+baseURL = "https://ibulog.art/"
+languageCode = "ja-jp"
+title = "ibulog Photo Gallery"
+theme = "photo-grid"
+
+[params]
+    # Meta
+    no_exif = false
+    title = "ibulog Photo Gallery"
+    subtitle = "自分で撮って「きれいだな」と思った写真を置いておく場所。アルバム。静的サイトジェネレーターの練習場所。あとなにか。"
+    author = "ibulog"
+    description = "ibulog Photo Gallery by Hugo"
+
+    # Body background and  text color
+    # bodybgcolor = "#3d3d3d"
+    # bodytextcolor = "#f2f2f2"
+
+    # Footer text
+    copyright_since_year = 2014
+    copyright_text = "All images"
+    # footertext = "Made by [Hugo](http://gohugo.io), [Photo Grid](https://themes.gohugo.io/photo-grid/), and [ibulog](https://ibulog-iblog.hateblo.jp/archive)."
