@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ibulog Photo Gallery</title>
-    <link>https://ibulog.art/</link>
+    <link>https://charolittle.github.io/ibulog.art/</link>
     <description>Recent content on ibulog Photo Gallery</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja-jp</language><atom:link href="https://ibulog.art/index.xml" rel="self" type="application/rss+xml" />
+    <language>ja-jp</language><atom:link href="https://charolittle.github.io/ibulog.art/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://ibulog.art/photo/1-everyday/</link>
+      <link>https://charolittle.github.io/ibulog.art/photo/1-everyday/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ibulog.art/photo/1-everyday/</guid>
+      <guid>https://charolittle.github.io/ibulog.art/photo/1-everyday/</guid>
       <description></description>
     </item>
     
