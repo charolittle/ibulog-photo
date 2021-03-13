@@ -1,9 +1,10 @@
-baseURL = "https://ibulog.art/"
+baseURL = "https://charolittle.github.io/ibulog.art/"
 languageCode = "ja-jp"
 title = "ibulog Photo Gallery"
 theme = "photo-grid"
 
 publishDir = "docs"
+canonifyurls = true
 
 [params]
     # Meta
