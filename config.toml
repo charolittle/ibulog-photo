@@ -3,6 +3,8 @@ languageCode = "ja-jp"
 title = "ibulog Photo Gallery"
 theme = "photo-grid"
 
+publishDir = "docs"
+
 [params]
     # Meta
     no_exif = false
