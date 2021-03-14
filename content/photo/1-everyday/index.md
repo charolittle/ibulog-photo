@@ -307,4 +307,22 @@ resources:
     order: 51
     description: 愛知は春日井市・定光寺から眺める風景。遠くに名古屋のビル群が見える。
 
+- src: okada-last.jpg
+  name: 岡田教授の最終講義
+  params:
+    order: 52
+    description: 京都大学・岡田教授の最終講義。いい話だった。
+
+- src: hodu-river.jpg
+  name: 保津峡
+  params:
+    order: 53
+    description: 嵐山ドライブウェイから眺める保津峡。一度トロッコにも乗ってみたい。
+
+- src: soni-burn.jpg
+  name: 山焼き後の曽爾高原
+  params:
+    order: 54
+    description: 冬季に行われる山焼き後の曽爾高原。秋とは打って変わって殺風景な景色が広がる。
+
 ---
