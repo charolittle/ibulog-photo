@@ -186,4 +186,125 @@ resources:
   params:
     order: 31
     description: 東岡崎駅の階段から覗く空。
----\
+
+- src: suwa-taisha-midnight.jpg
+  name: 真夜中の諏訪大社本宮
+  params:
+    order: 32
+    description: 真夜中の人っ子一人いない諏訪大社本宮。とても落ち着く空間。
+
+- src: okuhodaka-ropeway.jpg
+  name: 奥穂高ロープウェイ
+  params:
+    order: 33
+    description: 奥穂高ロープウェイから見た景色。なんも見えん。
+
+- src: shirakawago.jpg
+  name: 白川郷
+  params:
+    order: 34
+    description: 真夏の白川郷。ひぐらしの聖地巡礼。
+
+- src: design-a.jpg
+  name: デザイン「あ」展
+  params:
+    order: 35
+    description: お台場の日本科学未来館で行われていたデザイン「あ」展の一幕。「あ」が傾くやつ。
+
+- src: FT-1.jpg
+  name: FT-1
+  params:
+    order: 36
+    description: A90スープラの原型「FT-1」。デザインをほとんど変えず商品化したトヨタはすごい。
+
+- src: cathedral.jpg
+  name: 東京カテドラル聖マリア大聖堂
+  params:
+    order: 37
+    description: 文京区にあるでっかい教会。堂内はとても厳かな雰囲気でした。
+
+- src: takeshima.jpg
+  name: 竹島へと続く橋
+  params:
+    order: 38
+    description: 愛知の蒲郡にある竹島へと続く橋。無料で渡れます。
+
+- src: yoro-tenmei-hantenchi.jpg
+  name: 養老天命反転地
+  params:
+    order: 39
+    description: 岐阜にある不思議な場所、養老天命反転地。荒川修作とマドリン・ギンズによる構想とのこと。
+
+- src: tokoname.jpg
+  name: 常滑
+  params:
+    order: 40
+    description: 焼き物で有名な街、常滑。ご覧の通り常滑焼が至るところにある。
+
+- src: soni-kogen.jpg
+  name: 秋の曽爾高原
+  params:
+    order: 41
+    description: すすきたなびく秋の曽爾高原。夕暮れ時は黄金に輝く。
+
+- src: heiwa-domitory.jpg
+  name: 平和寮
+  params:
+    order: 42
+    description: とある寮の屋上から撮影した風景。ちなみにこの寮は取り壊され、もう存在しない。
+
+- src: hi-matsuri.jpg
+  name: 火祭り
+  params:
+    order: 43
+    description: 名古屋の秋葉山で毎年開催されている火祭り。燃え盛る火の中を地元の人が疾走する。
+
+- src: kyoto-tower-xmas.jpg
+  name: クリスマス仕様の京都タワー
+  params:
+    order: 44
+    description: クリスマス仕様にライトアップされた京都タワー。縦に分割するより、横に分割したほうがそれっぽいような気もする。
+
+- src: tomason.jpg
+  name: トマソン
+  params:
+    order: 45
+    description: 突然現れたトマソン。もともと何があったのだろう。
+
+- src: yokkaichi.jpg
+  name: 四日市の工場夜景
+  params:
+    order: 46
+    description: 夜のドライブで訪れた四日市。無機質な工場の照明と海の凪がなんとも。
+
+- src: ise-shima.jpg
+  name: 伊勢志摩の島々
+  params:
+    order: 47
+    description: 横山展望台から眺める伊勢志摩の島々。松島に似てる。
+
+- src: shirahige-temple.jpg
+  name: 白鬚神社
+  params:
+    order: 48
+    description: 滋賀にある白髭神社。逆光の鳥居が映える。
+
+- src: takazawa-kannon.jpg
+  name: 高澤観音
+  params:
+    order: 49
+    description: 岐阜は関市の高澤観音。清水風の舞台が特徴。
+
+- src: atsuta-jingu.jpg
+  name: 夜の熱田神宮
+  params:
+    order: 50
+    description: 名古屋は夜でも空が明るい。この時間帯の熱田神宮には信心深い方たちがいる。
+
+- src: jokoji-shrine.jpg
+  name: 定光寺からの長め
+  params:
+    order: 51
+    description: 愛知は春日井市・定光寺から眺める風景。遠くに名古屋のビル群が見える。
+
+---
