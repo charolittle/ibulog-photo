@@ -397,4 +397,40 @@ resources:
     order: 66
     description: 岐阜県関市にあるモネの池。モネの絵画に出てくるような池、ということらしい。
 
+- src: kouko-yakyu.jpg
+  name: 夏の甲子園
+  params:
+    order: 67
+    description: アルプス席の応援響く夏の甲子園。星稜の奥川投手が投球するところ。
+
+- src: mosaic-artmuseum.jpg
+  name: 多治見モザイクタイルミュージアム
+  params:
+    order: 68
+    description: モザイクタイルでつくられたさまざまなものが展示されている、多治見モザイクタイルミュージアム。
+
+- src: moriya-mt.jpg
+  name: 守屋山
+  params:
+    order: 69
+    description: 長野の守屋山山頂。奥に見えるのは奥穂高。
+
+- src: toyokawa-inari.jpg
+  name: 豊川稲荷の狐たち
+  params:
+    order: 70
+    description: 豊川稲荷に奉納された狐の石像。夜に行くのはちょっと勇気がいるかも。
+
+- src: miyama-no-sato.jpg
+  name: 見山の郷
+  params:
+    order: 71
+    description: 大阪の山奥にある見山の郷。おいしい野菜が買える。
+
+- src: imashiroduka-kofun.jpg
+  name: 今城塚古墳
+  params:
+    order: 72
+    description: 三島地方最大級の古墳、今城塚古墳。学術的には継体天皇の陵墓とされているらしい。
+
 ---
