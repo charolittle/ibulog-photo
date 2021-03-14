@@ -134,33 +134,56 @@ resources:
     description: おそらくケガで飛べなくなったカラス。どうすることもできず。
 
 - src: kamogawa.jpg
-  name: 
-  params: 四条大橋から見る鴨川
+  name: 四条大橋から見る鴨川
+  params: 
     order: 23
     description: 四条大橋から撮った、夏めく鴨川。
 
 - src: aoyama-kogen.jpg
-  name: 
-  params: 青山高原
+  name: 青山高原
+  params:
     order: 24
     description: 三重の青山高原。無数の風力発電機に圧倒されます。
 
 - src: sunset.jpg
-  name: 
-  params: 夕焼け
+  name: 夕焼け
+  params:
     order: 25
     description: ものすごいきれいな夕焼け。画像加工なしでこれ。
 
 - src: odaigahara.jpg
-  name: 
-  params: 濃霧の大台ケ原
+  name: 濃霧の大台ケ原
+  params:
     order: 26
     description: 天体観測から帰還する際の、濃霧の大台ケ原。かなり注意して下山した。
 
 - src: horyuji-temple.jpg
-  name: 
-  params: 法隆寺
+  name: 法隆寺
+  params:
     order: 27
     description: 柿食へば 鐘が鳴るなり 法隆寺。日本最初の世界遺産。
 
----
+- src: sagawa-artmuseum.jpg
+  name: 佐川美術館
+  params:
+    order: 28
+    description: 滋賀にある佐川美術館。何を見たかは忘れてしまった。
+
+- src: miho-museum.jpg
+  name: MIHO MUSEUM
+  params:
+    order: 29
+    description: トンネルが有名なMIHO MUSEUM。桜の季節にいくのがよい。
+
+- src: okazaki-museum.jpg
+  name: 岡崎美術館
+  params:
+    order: 30
+    description: 愛知県は岡崎市にある美術館。空が青いと写真も映える。
+
+- src: higasi-okazaki-st.jpg
+  name: 東岡崎駅
+  params:
+    order: 31
+    description: 東岡崎駅の階段から覗く空。
+---\
