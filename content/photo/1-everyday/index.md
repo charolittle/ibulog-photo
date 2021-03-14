@@ -325,4 +325,34 @@ resources:
     order: 54
     description: 冬季に行われる山焼き後の曽爾高原。秋とは打って変わって殺風景な景色が広がる。
 
+- src: kasuga-planetarium.jpg
+  name: 春日神社の野良プラネタリウム
+  params:
+    order: 55
+    description: 春日神社に来ていた野良プラネタリウム。アットホームな上映だった。
+
+- src: suwa-taisha-akimiya.jpg
+  name: 諏訪大社秋宮
+  params:
+    order: 56
+    description: 諏訪大社秋宮拝殿。秋宮の拝殿は諏訪大社四社の中で一番豪華。
+
+- src: suwako.jpg
+  name: 諏訪湖
+  params:
+    order: 57
+    description: 「君の名は。」の聖地、立石公園から見た諏訪湖。
+
+- src: median-tectonic-line.jpg
+  name: 中央構造線
+  params:
+    order: 58
+    description: 北川露頭で撮影した中央構造線。はっきり地盤の色が異なるのがわかる。
+
+- src: tanbo.jpg
+  name: 水が張られた田んぼ
+  params:
+    order: 59
+    description: 田植え前の水が張られた田んぼ。夏の気配を感じる風景。
+
 ---
