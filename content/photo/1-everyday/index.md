@@ -355,4 +355,46 @@ resources:
     order: 59
     description: 田植え前の水が張られた田んぼ。夏の気配を感じる風景。
 
+- src: ogaki-matsuri.jpg
+  name: 大垣まつり
+  params:
+    order: 60
+    description: 岐阜の大垣まつり。360年以上の歴史がある由緒正しいお祭りらしい。
+
+- src: lemonade.jpg
+  name: レモネード
+  params:
+    order: 61
+    description: 岐阜の大垣まつりで見かけたレモネードの看板。今話題のフレッシュドリンクらしい。
+
+- src: utsukushigahara.jpg
+  name: 美ヶ原
+  params:
+    order: 62
+    description: 標高2000mの美ヶ原。めちゃくちゃ曇っていた。
+
+- src: moriya.JPG
+  name: 神長官守矢資料館
+  params:
+    order: 63
+    description: 諏訪の歴史を学べる神長官守矢資料館。とてもユニークな建築。
+
+- src: gtr.jpg
+  name: プリンス＆スカイラインミュウジアム
+  params:
+    order: 64
+    description: スカイライン系譜の車が展示されている博物館にて。R32、33、34が並んでいる写真。
+
+- src: ontake-mt.jpg
+  name: 御嶽山遠景
+  params:
+    order: 65
+    description: 木曽馬の里から眺める御嶽山。普段はとても美しい山。
+
+- src: mone-pond.jpg
+  name: モネの池
+  params:
+    order: 66
+    description: 岐阜県関市にあるモネの池。モネの絵画に出てくるような池、ということらしい。
+
 ---
