@@ -121,4 +121,46 @@ resources:
     order: 20
     description: ホームセンターで売られていた木材。なんか配置がきれいだった。
 
+- src: amg-gtr.jpg
+  name: 鈴鹿サーキットのMercedes-AMG GT R
+  params:
+    order: 21
+    description: 鈴鹿サーキット開催のSUPER GTで遭遇したMercedes-AMG GT R。鮮やかな緑色。
+
+- src: karasu.jpg
+  name: 飛べなくなったカラス
+  params:
+    order: 22
+    description: おそらくケガで飛べなくなったカラス。どうすることもできず。
+
+- src: kamogawa.jpg
+  name: 
+  params: 四条大橋から見る鴨川
+    order: 23
+    description: 四条大橋から撮った、夏めく鴨川。
+
+- src: aoyama-kogen.jpg
+  name: 
+  params: 青山高原
+    order: 24
+    description: 三重の青山高原。無数の風力発電機に圧倒されます。
+
+- src: sunset.jpg
+  name: 
+  params: 夕焼け
+    order: 25
+    description: ものすごいきれいな夕焼け。画像加工なしでこれ。
+
+- src: odaigahara.jpg
+  name: 
+  params: 濃霧の大台ケ原
+    order: 26
+    description: 天体観測から帰還する際の、濃霧の大台ケ原。かなり注意して下山した。
+
+- src: horyuji-temple.jpg
+  name: 
+  params: 法隆寺
+    order: 27
+    description: 柿食へば 鐘が鳴るなり 法隆寺。日本最初の世界遺産。
+
 ---
