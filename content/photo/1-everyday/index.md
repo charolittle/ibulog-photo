@@ -433,4 +433,46 @@ resources:
     order: 72
     description: 三島地方最大級の古墳、今城塚古墳。学術的には継体天皇の陵墓とされているらしい。
 
+- src: kyoto-univ.jpg
+  name: 京都大学
+  params:
+    order: 73
+    description: 夜の京都大学。くすのきの下には酒をあおりつつ読書している学生？がいた。
+
+- src:  fushimi-inari.jpg
+  name: 伏見稲荷
+  params:
+    order: 74
+    description: 真っ暗な伏見稲荷。丑三つ時でも人はけっこういる。
+
+- src:  nison-in.jpg
+  name: 紅葉の馬場
+  params:
+    order: 75
+    description: 二尊院の門から境内へと続く道。通称「紅葉の馬場」。新緑もきれい。
+
+- src:  omiwa-jinja-temple.jpg
+  name: 大神神社
+  params:
+    order: 76
+    description: 古式ゆかしい奈良県の大神神社。2本の柱にしめ縄を渡しただけの鳥居が有名。
+
+- src:  karako-kagi.jpg
+  name: 唐古・鍵遺跡
+  params:
+    order: 77
+    description: 日本史に出てくる唐古・鍵遺跡。土器の絵の通り建物を修復すると、ものすごいことになってしまった。
+
+- src:  itsukushima-jinja-temple.jpg
+  name: 修復工事中の厳島神社
+  params:
+    order: 78
+    description: ご覧の通り修復中の厳島神社。これはこれで珍しいのでよし。
+
+- src:  atomic-dorm.jpg
+  name: 原爆ドームと月
+  params:
+    order: 79
+    description: 月を背にする原爆ドーム。スマホのカメラではこれが限界。
+
 ---
