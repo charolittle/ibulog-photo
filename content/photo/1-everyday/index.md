@@ -511,4 +511,40 @@ resources:
     order: 85
     description: 雪がうっすら積もったケーブル比叡駅。何者かによる雪だるま。
 
+- src:  hikone-heavy-snow.jpg
+  name: 大雪の彦根
+  params:
+    order: 86
+    description: 大晦日、大雪の彦根。とんでもない雪だった。
+
+- src:  suwa-taisha-harumiya.jpg
+  name: 諏訪大社春宮
+  params:
+    order: 87
+    description: 正月を目前に控えた大晦日の諏訪大社。秋宮のほうは正月に向けての準備があったが、春宮は特になし。
+
+- src:  suwa-taisha-daruma.jpg
+  name: 諏訪大社のだるま
+  params:
+    order: 88
+    description: 諏訪大社に初詣した際、屋台で売られていた大量のだるま。
+
+- src:  takeda-jinja-temple.jpg
+  name: 武田神社
+  params:
+    order: 89
+    description: 山梨は甲府の武田神社。祭神は当然、武田信玄。
+
+- src:  fuji-kawaguchi-lake.jpg
+  name: 河口湖から拝む富士
+  params:
+    order: 90
+    description: 河口湖から眺める富士山。天気に恵まれ最高の「一富士」でした。
+
+- src:  sengen-jinja-temple.jpg
+  name: 北口本宮冨士浅間神社
+  params:
+    order: 91
+    description: 頂上にないほうの浅間神社。初詣の参拝客がそこそこいた。
+
 ---
