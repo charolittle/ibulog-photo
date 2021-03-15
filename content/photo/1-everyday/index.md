@@ -547,4 +547,46 @@ resources:
     order: 91
     description: 頂上にないほうの浅間神社。初詣の参拝客がそこそこいた。
 
+- src:  toshogu.jpg
+  name: 日光東照宮
+  params:
+    order: 92
+    description: ここまできらびやかだとは思わなかった、日光東照宮。徳川家康の威光たるや。
+
+- src:  nirayama-hansyaro.jpg
+  name: 韮山反射炉
+  params:
+    order: 93
+    description: 伊豆の世界遺産であり、当時の形で現存する唯一の反射炉。江戸時代の製鉄は、韮山の江川家が大きな功績を残している。
+
+- src:  hamamatsu-gyoza.jpg
+  name: 浜松餃子
+  params:
+    order: 94
+    description: 浜松にある「むつぎく」の餃子。自分でラストオーダーだった。
+
+- src:  matsuo-taisha.jpg
+  name: 松尾大社
+  params:
+    order: 95
+    description: 京都の松尾大社。陰陽道的には白虎の方角。
+
+- src:  shigemori-museum.jpg
+  name: 重森三玲庭園美術館
+  params:
+    order: 96
+    description: 京都大学の近くにある庭園。とても静かな時間が流れていた。
+
+- src:  atc.jpg
+  name: アジア太平洋トレードセンター
+  params:
+    order: 97
+    description: 大阪湾にある巨大ショッピングセンター。大塚家具にオフィスチェアを見に行った。
+
+- src:  abeno-harukas.jpg
+  name: あべのハルカスから眺める夜景
+  params:
+    order: 98
+    description: 1500円払って展望フロアまで上ったあべのハルカス。きれいな夜景を見れたので満足。
+
 ---
