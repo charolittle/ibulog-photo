@@ -475,4 +475,40 @@ resources:
     order: 79
     description: 月を背にする原爆ドーム。スマホのカメラではこれが限界。
 
+- src:  todaiji-shrine.jpg
+  name: 東大寺
+  params:
+    order: 80
+    description: 言わずと知れた東大寺の南大門。中の大仏のほうが大きく感じる不思議。
+
+- src:  oumi.jpg
+  name: 近江の八幡堀
+  params:
+    order: 81
+    description: 近江の八幡堀というお堀。古い建物が並んでいる。
+
+- src:  fushimi-momoyama.jpg
+  name: 伏見桃山城
+  params:
+    order: 82
+    description: 快晴の伏見桃山城。中に入れないのが残念。
+
+- src:  hidden-christian.jpg
+  name: キリシタン遺物史料館
+  params:
+    order: 83
+    description: 大阪は茨木市のキリシタン遺物史料館。あの有名なザビエルの肖像画は茨木市で見つかったんだって。
+
+- src:  nejiri-manpo.jpg
+  name: ねじりまんぽ
+  params:
+    order: 84
+    description: ねじりまんぽは「ねじれたトンネル」の意。上を斜めに走るインクラインを支えるのに適した構造らしい。
+
+- src:  eizan-hiei.jpg
+  name: ケーブル比叡駅
+  params:
+    order: 85
+    description: 雪がうっすら積もったケーブル比叡駅。何者かによる雪だるま。
+
 ---
