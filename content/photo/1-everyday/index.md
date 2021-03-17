@@ -439,151 +439,151 @@ resources:
     order: 73
     description: 夜の京都大学。くすのきの下には酒をあおりつつ読書している学生？がいた。
 
-- src:  fushimi-inari.jpg
+- src: fushimi-inari.jpg
   name: 伏見稲荷
   params:
     order: 74
     description: 真っ暗な伏見稲荷。丑三つ時でも人はけっこういる。
 
-- src:  nison-in.jpg
+- src: nison-in.jpg
   name: 紅葉の馬場
   params:
     order: 75
     description: 二尊院の門から境内へと続く道。通称「紅葉の馬場」。新緑もきれい。
 
-- src:  omiwa-jinja-temple.jpg
+- src: omiwa-jinja-temple.jpg
   name: 大神神社
   params:
     order: 76
     description: 古式ゆかしい奈良県の大神神社。2本の柱にしめ縄を渡しただけの鳥居が有名。
 
-- src:  karako-kagi.jpg
+- src: karako-kagi.jpg
   name: 唐古・鍵遺跡
   params:
     order: 77
     description: 日本史に出てくる唐古・鍵遺跡。土器の絵の通り建物を修復すると、ものすごいことになってしまった。
 
-- src:  itsukushima-jinja-temple.jpg
+- src: itsukushima-jinja-temple.jpg
   name: 修復工事中の厳島神社
   params:
     order: 78
     description: ご覧の通り修復中の厳島神社。これはこれで珍しいのでよし。
 
-- src:  atomic-dorm.jpg
+- src: atomic-dorm.jpg
   name: 原爆ドームと月
   params:
     order: 79
     description: 月を背にする原爆ドーム。スマホのカメラではこれが限界。
 
-- src:  todaiji-shrine.jpg
+- src: todaiji-shrine.jpg
   name: 東大寺
   params:
     order: 80
     description: 言わずと知れた東大寺の南大門。中の大仏のほうが大きく感じる不思議。
 
-- src:  oumi.jpg
+- src: oumi.jpg
   name: 近江の八幡堀
   params:
     order: 81
     description: 近江の八幡堀というお堀。古い建物が並んでいる。
 
-- src:  fushimi-momoyama.jpg
+- src: fushimi-momoyama.jpg
   name: 伏見桃山城
   params:
     order: 82
     description: 快晴の伏見桃山城。中に入れないのが残念。
 
-- src:  hidden-christian.jpg
+- src: hidden-christian.jpg
   name: キリシタン遺物史料館
   params:
     order: 83
     description: 大阪は茨木市のキリシタン遺物史料館。あの有名なザビエルの肖像画は茨木市で見つかったんだって。
 
-- src:  nejiri-manpo.jpg
+- src: nejiri-manpo.jpg
   name: ねじりまんぽ
   params:
     order: 84
     description: ねじりまんぽは「ねじれたトンネル」の意。上を斜めに走るインクラインを支えるのに適した構造らしい。
 
-- src:  eizan-hiei.jpg
+- src: eizan-hiei.jpg
   name: ケーブル比叡駅
   params:
     order: 85
     description: 雪がうっすら積もったケーブル比叡駅。何者かによる雪だるま。
 
-- src:  hikone-heavy-snow.jpg
+- src: hikone-heavy-snow.jpg
   name: 大雪の彦根
   params:
     order: 86
     description: 大晦日、大雪の彦根。とんでもない雪だった。
 
-- src:  suwa-taisha-harumiya.jpg
+- src: suwa-taisha-harumiya.jpg
   name: 諏訪大社春宮
   params:
     order: 87
     description: 正月を目前に控えた大晦日の諏訪大社。秋宮のほうは正月に向けての準備があったが、春宮は特になし。
 
-- src:  suwa-taisha-daruma.jpg
+- src: suwa-taisha-daruma.jpg
   name: 諏訪大社のだるま
   params:
     order: 88
     description: 諏訪大社に初詣した際、屋台で売られていた大量のだるま。
 
-- src:  takeda-jinja-temple.jpg
+- src: takeda-jinja-temple.jpg
   name: 武田神社
   params:
     order: 89
     description: 山梨は甲府の武田神社。祭神は当然、武田信玄。
 
-- src:  fuji-kawaguchi-lake.jpg
+- src: fuji-kawaguchi-lake.jpg
   name: 河口湖から拝む富士
   params:
     order: 90
     description: 河口湖から眺める富士山。天気に恵まれ最高の「一富士」でした。
 
-- src:  sengen-jinja-temple.jpg
+- src: sengen-jinja-temple.jpg
   name: 北口本宮冨士浅間神社
   params:
     order: 91
     description: 頂上にないほうの浅間神社。初詣の参拝客がそこそこいた。
 
-- src:  toshogu.jpg
+- src: toshogu.jpg
   name: 日光東照宮
   params:
     order: 92
     description: ここまできらびやかだとは思わなかった、日光東照宮。徳川家康の威光たるや。
 
-- src:  nirayama-hansyaro.jpg
+- src: nirayama-hansyaro.jpg
   name: 韮山反射炉
   params:
     order: 93
     description: 伊豆の世界遺産であり、当時の形で現存する唯一の反射炉。江戸時代の製鉄は、韮山の江川家が大きな功績を残している。
 
-- src:  hamamatsu-gyoza.jpg
+- src: hamamatsu-gyoza.jpg
   name: 浜松餃子
   params:
     order: 94
     description: 浜松にある「むつぎく」の餃子。自分でラストオーダーだった。
 
-- src:  matsuo-taisha.jpg
+- src: matsuo-taisha.jpg
   name: 松尾大社
   params:
     order: 95
     description: 京都の松尾大社。陰陽道的には白虎の方角。
 
-- src:  shigemori-museum.jpg
+- src: shigemori-museum.jpg
   name: 重森三玲庭園美術館
   params:
     order: 96
     description: 京都大学の近くにある庭園。とても静かな時間が流れていた。
 
-- src:  atc.jpg
+- src: atc.jpg
   name: アジア太平洋トレードセンター
   params:
     order: 97
     description: 大阪湾にある巨大ショッピングセンター。大塚家具にオフィスチェアを見に行った。
 
-- src:  abeno-harukas.jpg
+- src: abeno-harukas.jpg
   name: あべのハルカスから眺める夜景
   params:
     order: 98
