@@ -589,4 +589,9 @@ resources:
     order: 98
     description: 1500円払って展望フロアまで上ったあべのハルカス。きれいな夜景を見れたので満足。
 
+- src: yasaka-temple.heic
+  name: 夜の八坂神社
+  params:
+    order: 99
+    description: 真夜中の八坂神社。提灯に月が映える。
 ---
