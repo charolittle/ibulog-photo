@@ -655,7 +655,7 @@ resources:
     order: 109
     description: 生駒信貴山スカイラインは、大阪の夜景が最もきれいに見える場所だと思う。
 
-- src: suwa-culture-centerjpg
+- src: suwa-culture-center.jpg
   name: 交流センター前宮
   params:
     order: 110
