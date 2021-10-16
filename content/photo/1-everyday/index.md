@@ -594,4 +594,89 @@ resources:
   params:
     order: 99
     description: 真夜中の八坂神社。提灯に月が映える。
+
+- src: kurata-satoru.jpg
+  name: 倉田悟展＠小山登美夫ギャラリー
+  params:
+    order: 100
+    description: 作品名は「透明なドライブ」。好きな作風だ〜。
+
+- src: yakushiji.jpg
+  name: 薬師寺金堂と東塔
+  params:
+    order: 101
+    description: 東塔は修復作業が完了したばかり。「凍れる音楽」の意味が少しわかった気がした。
+
+- src: ryo-anji.jpg
+  name: 龍安寺石庭
+  params:
+    order: 102
+    description: 有名な龍安寺の石庭。どの角度から見ても、絶対にどれかの石が死角になるらしい。なんかくやしい。
+
+- src: ise-jingu.jpg
+  name: 伊勢神宮
+  params:
+    order: 103
+    description: 天照大神が坐す伊勢神宮。鳥居をくぐると撮影禁止。
+
+- src: atsuta-jingu-boart.jpg
+  name: 熱田神宮の船
+  params:
+    order: 104
+    description: いつの間にか熱田神宮に船っぽい構造物ができていた。オリンピックを見越していたのだろうか。
+
+- src: mitarashi.jpg
+  name: 下鴨神社のみたらし祭
+  params:
+    order: 105
+    description: 毎年夏に下鴨神社で行われるお祭り。御手洗池の中に設置された燭台にローソクをたてるのだ。
+
+- src: awaji-shima.jpg
+  name: 淡路SAからの風景
+  params:
+    order: 106
+    description: あまりに気持ちよすぎる、淡路SAから眺める海。淡路海峡大橋も撮っておけばよかったな〜。
+
+- src: rokko-terrace.jpg
+  name: 六甲ガーデンテラス
+  params:
+    order: 107
+    description: 山頂から下界を眺めると、Google Mapで「あの建物これだ」って探したくなりません？
+
+- src: 86-brz.jpg
+  name: 新型86とBRZ
+  params:
+    order: 108
+    description: 鈴鹿サーキットで見つけた新型86とBRZ。顔は旧型の方が好み。
+
+- src: ikoma-shigi.jpg
+  name: 生駒信貴山スカイラインから眺める夜の大阪
+  params:
+    order: 109
+    description: 生駒信貴山スカイラインは、大阪の夜景が最もきれいに見える場所だと思う。
+
+- src: suwa-culture-centerjpg
+  name: 交流センター前宮
+  params:
+    order: 110
+    description: 諏訪大社前宮にいつのまにかできていた交流センター。上社周辺の施設や旧跡が案内されている。
+
+- src: utsukushi-gahara-2.jpg
+  name: 何度目かの美ヶ原
+  params:
+    order: 111
+    description: もう何度訪れたかわからない美ヶ原。毎回曇っている。
+
+- src: zenko-ji.jpg
+  name: 善光寺
+  params:
+    order: 112
+    description: 晴れた長野の善光寺。宗派を持たないというところが、なんとも長野の宗教らしい。
+
+- src: fukuchi-yama-castle.jpg
+  name: 福知山城
+  params:
+    order: 113
+    description: 福知山城天守から見下ろす福知山の町並み。「福知山」という地名は、明智光秀がつけたらしい。
+
 ---
